@@ -1,4 +1,4 @@
-# Dev. Full-stack
+# Dev. Front-end
 
 Sua tarefa é construir um front-end usando IONIC ou REACTJS para uma aplicação Bookmarks. A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags. Utilize um repositório Git (público, de preferência) para disponibilização do código.
 
